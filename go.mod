@@ -1,4 +1,4 @@
-module github.com/hyomaruu/go
+module github.com/hyomaruu/golang-crud
 
 go 1.14
 
